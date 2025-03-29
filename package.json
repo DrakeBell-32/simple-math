@@ -1,0 +1,22 @@
+{
+  "name": "simple-math-32",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DrakeBell-32",
+  "license": "MIT",
+  "description": "Простая, но полезная математическая библиотека",
+  "keywords": [
+    "math",
+    "prime",
+    "factorization",
+    "simple-math-32"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {}
+}
