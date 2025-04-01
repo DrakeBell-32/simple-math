@@ -3,7 +3,7 @@
 **simple-math** — это легковесная математическая библиотека для работы с числами, включающая алгоритмы разложения числа на простые множители и генерации массива простых чисел. Идеально подходит для небольших математических вычислений в JavaScript и Node.js.
 
 [![Version](https://img.shields.io/npm/v/simple-math-32.svg)](https://www.npmjs.com/package/simple-math-32)
-[![License](https://img.shields.io/github/license/DrakeBell-32/simple-math.svg)](https://github.com/DrakeBell-32/simple-math/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/github/license/DrakeBell-32/simple-math.svg)](https://github.com/DrakeBell-32/simple-math/blob/main/LICENSE)
 
 ## Установка
 
