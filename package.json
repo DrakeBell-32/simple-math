@@ -2,6 +2,12 @@
   "name": "simple-math-32",
   "version": "2.0.4",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src"
+  ],
   "author": "DrakeBell-32",
   "license": "MIT",
   "description": "Простая, но полезная математическая библиотека",
@@ -18,5 +24,7 @@
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
